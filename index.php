@@ -6,10 +6,16 @@
   <table width=100% bgcolor=ffd800>
     <tr>
       <td>
-        <img src=factoryshadow.png height=50>
-      </td>
-      <td>
-        <img src=fullfacts.png height=50>
+        <table bgcolor=ffd800>
+          <tr>
+            <td>
+              <img src=factoryshadow.png height=50>
+            </td>
+            <td>
+              <img src=fullfacts.png height=50>
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
