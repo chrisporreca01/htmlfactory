@@ -12,6 +12,8 @@
     </tr>
   </table>
   <br>
-  Hello, World!
+  <font face=arial>
+    Hello, World!
+  </font>
 </body>
 </html>
