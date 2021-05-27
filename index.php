@@ -20,8 +20,6 @@
     </tr>
   </table>
   <br>
-  <font face=arial>
-    Hello, World! - Christopher Porreca
-  </font>
+  <a href=mailto:support@htmlfactory.online>support@htmlfactory.online</a> feel free to contact support@htmlfactory.com !
 </body>
 </html>
