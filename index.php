@@ -11,6 +11,7 @@
   </head>
   <body>
     <h1>[html Factory]</h1>
+    <br><br>
     <table width=100% bgcolor=ffd800>
       <tr>
         <td>
@@ -27,6 +28,7 @@
         </td>
       </tr>
     </table>
+    <br><br>
     <a href=mailto:support@htmlfactory.online>support@htmlfactory.online</a> feel free to contact support@htmlfactory.com
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
   </body>
