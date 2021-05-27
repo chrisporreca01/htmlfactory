@@ -80,10 +80,10 @@ a:active { text-decoration: none; }
           <table bgcolor=ffd800>
             <tr>
               <td>
-                <img src=factoryshadow.png height=50>
+                <img src=factoryshadow.png height=100>
               </td>
               <td>
-                <img src=fullfacts.png height=50>
+                <img src=fullfacts.png height=100>
               </td>
             </tr>
           </table>
@@ -91,6 +91,12 @@ a:active { text-decoration: none; }
       </tr>
     </table>
     <hr>
+    <div class="container-fluid" id="cp01">
+      Codez
+      <hr>
+      <code>Created 2021 Planet Earth</code>
+    </div>
+    <hr width=75%>
     <a href=mailto:support@htmlfactory.online>support@htmlfactory.online</a>
     <table>
      <tr>
