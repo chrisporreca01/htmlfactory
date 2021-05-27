@@ -72,7 +72,7 @@ a:active { text-decoration: none; }
 </style>
   </head>
   <body>
-    <h1>[html Factory]</h1>
+    <h1>[<a href=index.php>html Factory</a>]</h1>
     <hr>
     <table width=100% bgcolor=ffd800>
       <tr>
