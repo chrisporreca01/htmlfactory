@@ -79,7 +79,7 @@ a:active { text-decoration: none; }
         <td>
           <table bgcolor=ffd800>
             <tr>
-              <td>
+              <td bgcolor=103050>
                 <img src=factoryfull.png height=100>
               </td>
               <td bgcolor=103050 width=100%>
