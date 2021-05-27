@@ -110,6 +110,9 @@ a:active { text-decoration: none; }
           <li class="nav-item">
             <a class="nav-link disabled" href="mailto:support@htmlfactory.online" tabindex="-1" aria-disabled="true">support@htmlfactory.online</a>
           </li>
+          <li class="nav-item">
+            <button type="button" class="btn btn-lg btn-danger" data-bs-toggle="popover" title="Popover title" data-bs-content="And here's some amazing content. It's very engaging. Right?">Click to toggle popover</button>
+          </li>
         </ul>
       </div>
       <hr>
