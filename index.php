@@ -72,10 +72,6 @@ a:active { text-decoration: none; }
 </style>
   </head>
   <body>
-    <button class="btn btn-primary" type="button" disabled>
-      <span class="spinner-grow spinner-grow-sm" role="status" aria-hidden="true"></span>
-      <span class="visually-hidden">Loading...</span>
-    </button>
     <font size=+4>[</font><font size=+3><a href=index.php>html Factory</a></font><font size=+4>]</font>
     <hr>
     <table width=100% bgcolor=ffd800>
