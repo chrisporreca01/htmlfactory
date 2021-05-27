@@ -6,7 +6,7 @@
   <img src=factory.png width=50>
   <table width=100% bgcolor=ffd800>
     <tr>
-      <td align=right>
+      <td>
         <img src=htmlf2.png width=50%>
       </td>
     </tr>
