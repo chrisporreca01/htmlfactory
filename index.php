@@ -92,7 +92,6 @@ a:active { text-decoration: none; }
     </table>
     <hr>
     <a href=mailto:support@htmlfactory.online>support@htmlfactory.online</a>
-    <hr>
     <table>
      <tr>
       <td>&nbsp;&nbsp;</td><td><span class="dot1"></span></td><td>&nbsp;&nbsp;</td>
