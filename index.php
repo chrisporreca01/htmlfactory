@@ -72,7 +72,7 @@ a:active { text-decoration: none; }
 </style>
   </head>
   <body>
-    <font size=+1>[</font>SYSTEM STATUS: <font size=+2><kbd><a href=index.php>ONLINE</a></kbd></font><font size=+2>]</font>
+    <font size=+1>[ </font>SYSTEM STATUS: <font size=+2><kbd><a href=index.php>ONLINE</a></kbd></font><font size=+2>]</font>
     <hr>
     <table width=100% bgcolor=ffd800>
       <tr>
@@ -92,7 +92,7 @@ a:active { text-decoration: none; }
       <div class="sticky-top">
         <ul class="nav nav-pills">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#htmlfactory">html Factory</a>
+            <a class="nav-link active" aria-current="page" href="#htmlfactory">html:factory</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Account Management</a>
