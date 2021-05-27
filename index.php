@@ -119,7 +119,7 @@ a:active { text-decoration: none; }
       <code>Created 2021 Planet Earth</code>
     </div>
     <hr width=75%>
-    <a href=mailto:support@htmlfactory.online>support@htmlfactory.online</a>
+    <ul><a href=mailto:support@htmlfactory.online>support@htmlfactory.online</a></ul>
     <hr>
     <table>
      <tr>
