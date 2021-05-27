@@ -77,13 +77,10 @@ a:active { text-decoration: none; }
     <table width=100% bgcolor=ffd800>
       <tr>
         <td>
-          <table bgcolor=ffd800>
+          <table bgcolor=103050 bordercolor=ffd800 border=4 cellspacing=5 cellpadding=10 width=100%>
             <tr>
-              <td bgcolor=103050>
+              <td>
                 <img src=factoryfull.png height=100>
-              </td>
-              <td bgcolor=103050 width=100%>
-                &nbsp;
               </td>
             </tr>
           </table>
