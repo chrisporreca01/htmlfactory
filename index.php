@@ -92,7 +92,7 @@ a:active { text-decoration: none; }
       <div class="sticky-top">
         <ul class="nav nav-pills">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#htmlfactory">html:factory</a>
+            <a class="nav-link active" aria-current="page" href="#htmlfactory">html<font color=ffd800>:</font>factory</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Account Management</a>
