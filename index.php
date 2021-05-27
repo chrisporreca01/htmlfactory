@@ -80,7 +80,7 @@ a:active { text-decoration: none; }
           <table bgcolor=103050 bordercolor=ffd800 border=4 cellspacing=5 cellpadding=10 width=100%>
             <tr>
               <td>
-                <img src=factoryfull.png height=100>
+                <img src=factoryfull.png height=100> <img src=wedge.png height=100>
               </td>
             </tr>
           </table>
