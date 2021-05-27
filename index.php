@@ -83,7 +83,7 @@ a:active { text-decoration: none; }
                 <img src=factoryshadow.png height=100>
               </td>
               <td>
-                <img src=fullfacts.png height=100>
+                <h1><font color=103050>html factory</font></h1>
               </td>
             </tr>
           </table>
