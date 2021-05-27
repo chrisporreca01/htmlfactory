@@ -80,7 +80,7 @@ a:active { text-decoration: none; }
           <table bgcolor=ffd800>
             <tr>
               <td>
-                <img src=factoryshadow.png height=100>
+                <img src=factoryfull.png height=100>
               </td>
               <td>
                 <h1><font color=103050>html factory</font></h1>
