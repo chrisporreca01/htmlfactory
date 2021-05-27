@@ -120,6 +120,7 @@ a:active { text-decoration: none; }
     </div>
     <hr width=75%>
     <a href=mailto:support@htmlfactory.online>support@htmlfactory.online</a>
+    <hr>
     <table>
      <tr>
       <td>&nbsp;&nbsp;</td><td><span class="dot1"></span></td><td>&nbsp;&nbsp;</td>
@@ -132,7 +133,6 @@ a:active { text-decoration: none; }
       <td>&nbsp;&nbsp;</td><td><span class="dot8"></span></td><td>&nbsp;&nbsp;</td>
      </tr>
     </table>
-    <hr>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
   </body>
 </html>
