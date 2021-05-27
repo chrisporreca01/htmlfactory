@@ -91,6 +91,10 @@ a:active { text-decoration: none; }
       </tr>
     </table>
     <hr>
+    <button class="btn btn-primary" type="button" disabled>
+      <span class="spinner-grow spinner-grow-sm" role="status" aria-hidden="true"></span>
+      <span class="visually-hidden">Loading...</span>
+    </button>
     <div class="container-fluid" id="cp01">
       <ul class="nav nav-pills">
       <li class="nav-item">
