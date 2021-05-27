@@ -12,7 +12,7 @@
       </td>
     </tr>
   </table>
-  <br><br>
+  <br>
   <font face=arial>
     Hello, World!
   </font>
