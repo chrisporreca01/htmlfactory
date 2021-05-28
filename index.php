@@ -73,7 +73,7 @@ a:active { text-decoration: none; }
   </head>
   <body>
     <?php
-      if (!isset($htmlstatus)){
+        /*
         $htmlalert = "success";
         $htmlstatus = "online";
         echo "
@@ -81,13 +81,15 @@ a:active { text-decoration: none; }
           SYSTEM STATUS: ONLINE
         </div>
         ";
+
         $htmlalert = "warning";
         $htmlstatus = "warning";
         echo "
         <div class=\"alert alert-warning\" role=\"alert\">
           SYSTEM STATUS: WARNING
         </div>
-        ";
+        "; */
+
         $htmlalert = "info";
         $htmlstatus = "maint";
         echo "
@@ -95,14 +97,16 @@ a:active { text-decoration: none; }
           SYSTEM STATUS: MAINTENANCE MODE
         </div>
         ";
+
+        /*
         $htmlalert = "danger";
         $htmlstatus = "offline";
         echo "
         <div class=\"alert alert-danger\" role=\"alert\">
           SYSTEM STATUS: OFFLINE
         </div>
-        ";
-      }
+        "; */
+
     ?>
     <hr>
     <table width=100% bgcolor=ffd800>
