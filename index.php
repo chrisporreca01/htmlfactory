@@ -72,18 +72,38 @@ a:active { text-decoration: none; }
 </style>
   </head>
   <body>
-    <div class="alert alert-success" role="alert">
-      SYSTEM STATUS: ONLINE
-    </div>
-    <div class="alert alert-warning" role="alert">
-      SYSTEM STATUS: WARNING
-    </div>
-    <div class="alert alert-info" role="alert">
-      SYSTEM STATUS: MAINTENANCE MODE
-    </div>
-    <div class="alert alert-danger" role="alert">
-      SYSTEM STATUS: OFFLINE
-    </div>
+    <?php
+      if (!isset($htmlstatus)){
+        $htmlalert = "success";
+        $htmlstatus = "online";
+        echo "
+        <div class="alert alert-success" role="alert">
+          SYSTEM STATUS: ONLINE
+        </div>
+        ";
+        $htmlalert = "warning";
+        $htmlstatus = "warning";
+        echo "
+        <div class="alert alert-warning" role="alert">
+          SYSTEM STATUS: WARNING
+        </div>
+        ";
+        $htmlalert = "info";
+        $htmlstatus = "maint";
+        echo "
+        <div class="alert alert-info" role="alert">
+          SYSTEM STATUS: MAINTENANCE MODE
+        </div>
+        ";
+        $htmlalert = "danger";
+        $htmlstatus = "offline";
+        echo "
+        <div class="alert alert-danger" role="alert">
+          SYSTEM STATUS: OFFLINE
+        </div>
+        ";
+      }
+    ?>
     <hr>
     <table width=100% bgcolor=ffd800>
       <tr>
