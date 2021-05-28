@@ -72,6 +72,9 @@ a:active { text-decoration: none; }
 </style>
   </head>
   <body>
+    <div class="alert alert-primary" role="alert">
+      A simple primary alert—check it out!
+    </div>
     <font size=+1>[ </font>SYSTEM STATUS: <font size=+2><kbd><a href=index.php>ONLINE</a></kbd></font><font size=+2>]</font>
     <hr>
     <table width=100% bgcolor=ffd800>
