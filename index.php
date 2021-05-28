@@ -77,28 +77,28 @@ a:active { text-decoration: none; }
         $htmlalert = "success";
         $htmlstatus = "online";
         echo "
-        <div class="alert alert-success" role="alert">
+        <div class=\"alert alert-success\" role=\"alert\">
           SYSTEM STATUS: ONLINE
         </div>
         ";
         $htmlalert = "warning";
         $htmlstatus = "warning";
         echo "
-        <div class="alert alert-warning" role="alert">
+        <div class=\"alert alert-warning\" role=\"alert\">
           SYSTEM STATUS: WARNING
         </div>
         ";
         $htmlalert = "info";
         $htmlstatus = "maint";
         echo "
-        <div class="alert alert-info" role="alert">
+        <div class=\"alert alert-info\" role=\"alert\">
           SYSTEM STATUS: MAINTENANCE MODE
         </div>
         ";
         $htmlalert = "danger";
         $htmlstatus = "offline";
         echo "
-        <div class="alert alert-danger" role="alert">
+        <div class=\"alert alert-danger\" role=\"alert\">
           SYSTEM STATUS: OFFLINE
         </div>
         ";
