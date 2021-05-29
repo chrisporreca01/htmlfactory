@@ -147,20 +147,22 @@ a:active { text-decoration: none; }
           </li>
         </ul>
       </div>
-      <ul type=square>
-      Services I offer:
-        <li>Domains
-        <li>E-Mail
-        <li>SSL Certificates
-        <li>Website Design
-        <li>E-Commerce
-        <li>Website Hosting
-        <li>Programming/Databases
-        <li>Graphic Design
-        <li>VPN
-        <li>Website Malware/Antiviral Scanning
-        <li>Cloud Storage
-        <li>Virtual and Dedicated Servers
+      <ul>
+        Services I offer:
+        <ul type=square>
+          <li>Domains
+          <li>E-Mail
+          <li>SSL Certificates
+          <li>Website Design
+          <li>E-Commerce
+          <li>Website Hosting
+          <li>Programming/Databases
+          <li>Graphic Design
+          <li>VPN
+          <li>Website Malware/Antiviral Scanning
+          <li>Cloud Storage
+          <li>Virtual and Dedicated Servers
+        </ul>
       </ul>
       <hr>
       <code>Created 2021 Planet Earth</code>
