@@ -147,6 +147,19 @@ a:active { text-decoration: none; }
           </li>
         </ul>
       </div>
+      Services I offer:
+        <li>Domains
+        <li>E-Mail
+        <li>SSL Certificates
+        <li>Website Design
+        <li>E-Commerce
+        <li>Website Hosting
+        <li>Programming/Databases
+        <li>Graphic Design
+        <li>VPN
+        <li>Website Malware/Antiviral Scanning
+        <li>Cloud Storage
+        <li>Virtual and Dedicated Servers
       <hr>
       <code>Created 2021 Planet Earth</code>
     </div>
