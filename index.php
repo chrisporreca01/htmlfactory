@@ -150,6 +150,7 @@ a:active { text-decoration: none; }
       <hr width=80%>
       <ul>
         Services I offer:
+        <br>
         <ul type=square>
           <li>Domains
           <li>E-Mail
