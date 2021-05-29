@@ -147,6 +147,7 @@ a:active { text-decoration: none; }
           </li>
         </ul>
       </div>
+      <hr width=80%>
       <ul>
         Services I offer:
         <ul type=square>
