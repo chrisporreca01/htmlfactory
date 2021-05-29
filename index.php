@@ -147,6 +147,7 @@ a:active { text-decoration: none; }
           </li>
         </ul>
       </div>
+      <ul type=square>
       Services I offer:
         <li>Domains
         <li>E-Mail
@@ -160,6 +161,7 @@ a:active { text-decoration: none; }
         <li>Website Malware/Antiviral Scanning
         <li>Cloud Storage
         <li>Virtual and Dedicated Servers
+      </ul>
       <hr>
       <code>Created 2021 Planet Earth</code>
     </div>
