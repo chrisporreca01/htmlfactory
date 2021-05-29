@@ -140,7 +140,7 @@ a:active { text-decoration: none; }
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#services">Services</a>
+            <a class="nav-link" href="#services">Hosting Services</a>
           </li>
           <li class="nav-item">
             <a class="nav-link disabled" href="mailto:support@htmlfactory.online" tabindex="-1" aria-disabled="true">support@htmlfactory.online</a>
